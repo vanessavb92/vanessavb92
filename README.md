@@ -1,4 +1,4 @@
-OIIIII sou vanessa Borges Desenvolvedor front- end
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=OL%C3%81+SEJA+BEM+VINDO+AO+MEU+GITHUB;SOU++VANESSA+BORGES+DESENVOLVEDORA+FRONT-+END)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/vanessavb92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessavb92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
