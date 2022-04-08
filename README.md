@@ -17,6 +17,6 @@ OIIIII sou vanessa Borges Desenvolvedor front- end
   <a href = "mailto:vanessacamahuali28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-borges-a05b4636/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/vanessaborges/vanessaborges/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vanessavb92/vanessavb92/blob/output/github-contribution-grid-snake.svg)
 
 </div>
