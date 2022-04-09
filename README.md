@@ -33,7 +33,7 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg">
   
 </div>
-
+----------------------------------------------------------------------------------------------------------------
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:vanessacamahuali28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-borges-a05b4636/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -42,4 +42,4 @@
 
 </div>
 
-   <img align="center" width="150" src="mundo.gif.gif" />  
+  <img align="center" width="150" src="mundo.gif.gif" />  
