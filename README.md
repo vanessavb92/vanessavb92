@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=73D5F7&width=435&lines=welcome+to+my+github)](https://git.io/typing-svg)
- <a href="https://github.com/vanessavb92">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessavb92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavb92&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF715&width=435&lines=Welcome+my+GitHub;Bem+vindo+ao+meu+GitHub;Bienvenido+a+mi+GitHhub" alt="Typing SVG" /></a>
  
 <div style="display: inline_flex"><br>
   <img align="center" alt="Le-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
