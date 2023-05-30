@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF715&width=435&lines=Welcome+my+GitHub;Bem+vindo+ao+meu+GitHub;Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=white&width=435&lines=Welcome+my+GitHub;Bem+vindo+ao+meu+GitHub;Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)
 <div align="center">
+
   
 <a href="https://github.com/vanessavb92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessavb92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=000033&title_color=2B93C8"/>
