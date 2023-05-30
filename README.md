@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  ![Snake animation](https://github.com/vanessavb92/vanessavb92/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vanessavb92/vanessavb92/blob/output/github-contribution-grid-snake.svg?raw=true&color=ocean)
 </div>
+
 
 <img align="center" width="150" src="mundo.gif.gif" />
