@@ -19,13 +19,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessavb92&layout=compact&langs_count=7&theme=dracula&bg_color=000033&title_color=2B93C8"/>
 </a>
 
-
-
-  
- 
-  <a href="https://www.linkedin.com/in/vanessa-borges-a05b4636/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
   
 ![Snake animation](https://github.com/vanessavb92/vanessavb92/blob/output/github-contribution-grid-snake.svg?raw=true&color=ocean)
 </div>
