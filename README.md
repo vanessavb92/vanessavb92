@@ -1,16 +1,8 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=branco&width=435&lines=Bem-vindo+ao+meu+GitHub;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=branco&width=435&lines=Olá-Mundo;)](https://git.io/typing-svg)
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ocean&width=435&lines=Welcome+my+GitHub;)](https://git.io/typing-svg)
-<div align="center">
-  
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=rosa+pink&width=435&lines=Bienvenido+a+mi+GitHub;)](https://git.io/typing-svg)
-<div align="center">
 
   
 <a href="https://github.com/vanessavb92">
