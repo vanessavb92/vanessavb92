@@ -43,17 +43,6 @@ ________________________________________________________________________________
 
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
-
-
-
-
-
-
-
-
-
-
-
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
  ## 📊 &nbsp;Stats 
 <a href="https://github.com/vanessavb92">
@@ -64,6 +53,3 @@ ________________________________________________________________________________
   
 ![Snake animation](https://github.com/vanessavb92/vanessavb92/blob/output/github-contribution-grid-snake.svg?raw=true&color=ocean)
 </div>
-
-
-<img align="center" width="150" src="mundo.gif.gif" />
