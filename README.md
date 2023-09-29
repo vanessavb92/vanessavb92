@@ -8,11 +8,10 @@
   <p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg"
 </div>
 
-
-
-<h3 align="center">
+<h3 style="text-align: center; color: #00FA9A;">
   FullStack Developer • software development and training
 </h3>
+
 
 <div align="center">
 <p>
