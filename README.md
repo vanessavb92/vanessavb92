@@ -2,11 +2,13 @@
   Hello World, I'm Vanessa Borges 👋
 </h1>
 
+<p align="center">
+  <a href="https://media.giphy.com/media/5AGjSNAAbQAkor4AJF/giphy.gif" target="_blank">
+    <img src="https://media1.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif?cid=ecf05e47kpqw5jsv30p6afqftc5zdnb7x5kej92yulegyfio&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+         alt="Descrição do GIF" width="480" height="480">
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" alt="GIF de Código" width="480" height="96">
-  <p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-coder-MYI6NK4JOGpOzOriEg"
-</div>
 
 <h3 style="text-align: center; color: #00FA9A;">
   FullStack Developer • software development and training
