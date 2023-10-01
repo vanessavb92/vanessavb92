@@ -9,7 +9,7 @@
   </a>
 </p>
 
-
+<div align="center">
 <h3 style="text-align: center; color: #00FA9A;">
   FullStack Developer • software development and training
 </h3>
