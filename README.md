@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">FullStack Developer • Software Development and Training</h3>
+<h3 align="center">FrontEnd Developer • Software Development and Training</h3>
 
 <div align="center">
   <p>
