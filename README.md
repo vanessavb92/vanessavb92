@@ -27,7 +27,6 @@
 ### 👩‍💻 &nbsp;Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)
-![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)
 
 ### 🎨 &nbsp;Front-end
 
